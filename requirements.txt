@@ -1,0 +1,21 @@
+# Core scientific computing and data manipulation
+numpy
+pandas
+
+# Audio processing
+librosa
+soundfile
+
+# Machine learning and modeling
+scikit-learn
+
+# Deep learning (optional but common for audio tasks)
+# tensorflow
+
+# Data visualization
+matplotlib
+seaborn
+
+# Jupyter notebook support
+jupyter
+ipykernel
