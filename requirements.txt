@@ -10,7 +10,7 @@ soundfile
 scikit-learn
 
 # Deep learning (optional but common for audio tasks)
-tensorflow
+# tensorflow
 
 # Data visualization
 matplotlib
