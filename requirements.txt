@@ -15,6 +15,7 @@ scikit-learn
 # Data visualization
 matplotlib
 seaborn
+tqdm
 
 # Jupyter notebook support
 jupyter
