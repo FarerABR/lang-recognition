@@ -1,0 +1,10 @@
+{
+  "kind": "augmented",
+  "variant": "optimized",
+  "eps": 5.655716402109595,
+  "min_samples": 15,
+  "n_clusters": 4,
+  "noise_ratio": 0.2337962962962963,
+  "silhouette_excl_noise_recomputed": 0.1570768541060434,
+  "purity_excl_noise": 0.4052114803625378
+}

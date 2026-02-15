@@ -1,0 +1,5 @@
+cluster,size,top_label,top_count,purity_cluster
+0,541,korean,143,0.2643253234750462
+1,10,italian,10,1.0
+2,6,italian,6,1.0
+3,9,italian,9,1.0
