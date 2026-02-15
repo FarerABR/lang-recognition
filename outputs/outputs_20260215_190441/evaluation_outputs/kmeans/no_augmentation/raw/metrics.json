@@ -1,0 +1,7 @@
+{
+  "kind": "no_augmentation",
+  "variant": "raw",
+  "best_k_from_step2": 4,
+  "silhouette_recomputed": 0.19383090712682602,
+  "purity_overall": 0.6180555555555556
+}

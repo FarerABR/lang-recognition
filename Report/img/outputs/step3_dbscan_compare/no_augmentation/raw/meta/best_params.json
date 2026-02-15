@@ -1,0 +1,11 @@
+{
+  "eps": 10.000702523494663,
+  "min_samples": 5.0,
+  "n_clusters": 4.0,
+  "noise_ratio": 0.017361111111111112,
+  "silhouette_excl_noise": 0.17546165419645599,
+  "purity_excl_noise": 0.2968197879858657,
+  "min_cluster_size": 6.0,
+  "max_cluster_size": 541.0,
+  "k_distance": 0.0
+}

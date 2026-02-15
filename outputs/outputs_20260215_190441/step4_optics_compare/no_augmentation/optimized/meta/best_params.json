@@ -1,0 +1,10 @@
+{
+  "min_samples": 20.0,
+  "xi": 0.05,
+  "min_cluster_size": 0.03,
+  "n_clusters": 4,
+  "noise_ratio": 0.7569444444444444,
+  "silhouette_excl_noise": 0.5577678075632383,
+  "purity_excl_noise": 0.9928571428571429,
+  "k_distance": 0.0
+}
