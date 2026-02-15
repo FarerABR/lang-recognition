@@ -1,0 +1,9 @@
+{
+  "best": {
+    "k": 4.0,
+    "inertia": 30440.899072422944,
+    "silhouette": 0.2147975036878214
+  },
+  "silhouette_sample_size": null,
+  "purity_overall": 0.6180555555555556
+}

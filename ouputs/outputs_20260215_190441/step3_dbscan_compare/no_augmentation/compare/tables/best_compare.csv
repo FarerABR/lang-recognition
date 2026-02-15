@@ -1,0 +1,3 @@
+variant,eps,min_samples,n_clusters,noise_ratio,silhouette_excl_noise,purity_excl_noise,min_cluster_size,max_cluster_size,k_distance
+raw,10.000702523494663,5.0,4.0,0.017361111111111112,0.17546165419645599,0.2968197879858657,6.0,541.0,0.0
+optimized,6.9178948232929445,5.0,4.0,0.140625,0.21378467333954385,0.4262626262626263,7.0,420.0,0.0

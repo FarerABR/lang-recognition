@@ -1,0 +1,5 @@
+cluster,size,top_label,top_count,purity_cluster
+0,37,italian,37,1.0
+1,47,korean,46,0.9787234042553191
+2,36,spanish,36,1.0
+3,20,german,20,1.0
