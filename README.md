@@ -102,7 +102,7 @@ Trains and evaluates **7 supervised learning models**:
 4. **SVM (RBF kernel)** - 99.3% accuracy
 5. **K-Nearest Neighbors** - 98.6% accuracy
 6. **Decision Tree** - 95.1% accuracy
-7. **Naïve Bayes** - 82.6% accuracy
+7. **Naive Bayes** - 82.6% accuracy
 
 All models trained on augmented dataset with standardized features.
 
@@ -127,7 +127,7 @@ All models trained on augmented dataset with standardized features.
 | SVM (RBF) | 99.3% | 99.3% | 99.3% | 99.3% |
 | KNN | 98.6% | 98.7% | 98.6% | 98.6% |
 | Decision Tree | 95.1% | 95.2% | 95.1% | 95.2% |
-| Naïve Bayes | 82.6% | 86.1% | 82.6% | 82.1% |
+| Naive Bayes | 82.6% | 86.1% | 82.6% | 82.1% |
 
 **Key Findings:**
 - Three models (Logistic Regression, MLP, Random Forest) achieve **perfect 100% accuracy**
