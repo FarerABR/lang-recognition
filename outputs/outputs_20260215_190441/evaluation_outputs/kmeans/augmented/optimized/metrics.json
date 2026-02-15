@@ -1,0 +1,7 @@
+{
+  "kind": "augmented",
+  "variant": "optimized",
+  "best_k_from_step2": 4,
+  "silhouette_recomputed": 0.15830188899500933,
+  "purity_overall": 0.4626736111111111
+}

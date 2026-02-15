@@ -1,0 +1,50 @@
+% !TEX TS-program = xelatex
+
+\documentclass[a4paper,14pt]{extarticle}
+% Include settings from setting.tex
+\input{../setting/setting.tex}
+
+\geometry{a4paper, margin=1in}
+\graphicspath{{../img/}}
+
+\newcommand{\assignNum}{2} %change the number of the assignment here
+% In template:
+\author{
+محمد ستار امامی میبدی\\
+علی بقائی راوری\\
+ابوالفضل قندی آرانی
+}
+
+\newcommand{\SNum}{
+810104072\\
+810104086\\
+810104229
+}
+
+\begin{document}
+\pagenumbering{gobble}
+%\pagenumbering{arabic}
+\setcounter{tocdepth}{2} 
+
+\maketitle
+\newpage
+\tableofcontents
+
+\newpage
+\listoffigures
+%
+\newpage
+\listoftables
+
+\newpage
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
+\input{../pages/Data-Cleaning/question00.tex}
+\input{../pages/Classification/question00.tex}
+\input{../pages/Clustering/question00.tex}
+%\input{../pages/Question03/question00.tex}
+%\input{../pages/Question04/question00.tex}
+
+
+\end{document}
